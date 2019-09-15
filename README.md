@@ -6,6 +6,7 @@
 [![Build Status](https://travis-ci.org/miw-upm/ecosystem-demo.svg?branch=develop)](https://travis-ci.org/miw-upm/ecosystem-demo)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=es.upm.miw%3Aecosystem-demo&metric=alert_status)](https://sonarcloud.io/dashboard?id=es.upm.miw%3Aecosystem-demo)
 [![BCH compliance](https://bettercodehub.com/edge/badge/miw-upm/ecosystem-demo?branch=develop)](https://bettercodehub.com/)
+[![Heroku broken](https://ecosystem-demo-miw.herokuapp.com/system/version-badge)](https://ecosystem-demo-miw.herokuapp.com/swagger-ui.html)
 
 ## Ecosistema
 * Java
